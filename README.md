@@ -1,6 +1,6 @@
-# zenshoop
-Tienda Virtual
+# Cap's Shop
+Tienda Virtual De Gorras.
 
 Integrantes:
-** Gabriel Mendoza Peinado
-** Brayan Esteven Reyes
+** Gabriel Antonio Mendoza Peinado
+** Andres Camilo Suarez Bully
