@@ -1,8 +1,8 @@
 <?php
-$host = 'localhost';
-$dbname = 'capshop';
-$username = 'root';
-$password = '';
+$host = 'sql200.epizy.com';
+$dbname = 'epiz_30541411_capshop';
+$username = 'epiz_30541411';
+$password = '1ljsGSAWVLuvE';
 
 try {
     $conn = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
