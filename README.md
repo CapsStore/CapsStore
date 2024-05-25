@@ -2,7 +2,7 @@
 
 ## Descripción del Proyecto
 
-Este repositorio contiene el código fuente y la documentación asociada a nuestro proyecto universitario: una tienda virtual de gorras. El objetivo de este proyecto es aplicar los conocimientos adquiridos en el curso de Desarrollo de Aplicaciones Web, así como demostrar nuestras habilidades en el diseño y desarrollo de sistemas web utilizando tecnologías modernas.
+Este repositorio contiene el código fuente y la documentación asociada a nuestro proyecto universitario: una tienda virtual de gorras. El objetivo de este proyecto es aplicar los conocimientos adquiridos en el curso de Ingenieria de Software, así como demostrar nuestras habilidades en el diseño y desarrollo de sistemas web utilizando tecnologías modernas.
 
 ## Características Principales
 
@@ -26,7 +26,7 @@ Este repositorio contiene el código fuente y la documentación asociada a nuest
 
 ## Equipo de Desarrollo
 
-- **Nombre del Equipo**: 2PointDeveleper
+- **Nombre del Equipo**: 2Point Developer *`2PD`*
 - **Integrantes**:
   - Gabriel Antonio Mendoza Peinado : Desarrolladora Backend & Responsable de Documentación & SCRUM master
   - Andres Camilo Suarez Bully : Desarrollador Frontend & Diseñador UI/UX
